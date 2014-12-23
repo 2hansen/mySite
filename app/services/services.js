@@ -6,4 +6,8 @@ myServices.factory('Education', ['$resource', function($resource){
     });
 }]);
 
-
+myServices.factory('Employment', ['$resource', function($resource){
+    return $resource('/data/employement.json', {}, {
+      query: {method:'GET', /*params:{phoneId:'phones'},*/ isArray:true}
+    });
+}]);

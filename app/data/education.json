@@ -1,0 +1,45 @@
+		[
+			{
+				"label": "Student at PhD School of Informatics",
+				"startYear": "2003",
+				"endYear": "2009",
+				"links": [
+					{
+						"link": "http://uk.cbs.dk/content/view/full/16303"
+					}
+				]
+			},
+			{	
+				"label": "Cand.merc.(dat.), MSc in Business Administration and Computer Science",
+				"startYear": "1999",
+				"endYear": "2002",
+				"links": [
+					{
+						"link": "http://tinyurl.com/9eeyu"
+					}
+				]
+			},	
+			{	
+				"label": "Ha.(dat.), BSc in Business Administration and Computer Science",
+				"startYear": "1996",
+				"endYear": "1999",
+				"links": [
+					{
+						"link": "http://tinyurl.com/azqom"
+					}
+				]
+			},
+			{	
+				"label": "Courses from \"Diploma in specialized Business Studies\", Business Economics and Business Organisation",
+				"startYear": "1994",
+				"endYear": "1996",
+				"links": [
+					{
+						"link": "http://tinyurl.com/dur6o"
+					},
+					{
+						"link": "http://tinyurl.com/ccp5e"
+					}
+				]
+			}
+		]
