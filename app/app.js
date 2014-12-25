@@ -20,7 +20,4 @@ app.config(['$routeProvider', function($routeProvider){
 			redirectTo: '/me'
 		});
 }]);
-	/*.run(function($rootScope){
-		$rootScope.employees = [];
-	})*/
 

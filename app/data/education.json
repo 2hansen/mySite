@@ -5,7 +5,8 @@
 				"endYear": "2009",
 				"links": [
 					{
-						"link": "http://uk.cbs.dk/content/view/full/16303"
+						"link": "http://goo.gl/YlNDBq",
+						"label": "CBS"
 					}
 				]
 			},
@@ -15,7 +16,8 @@
 				"endYear": "2002",
 				"links": [
 					{
-						"link": "http://tinyurl.com/9eeyu"
+						"link": "http://tinyurl.com/9eeyu",
+						"label": "CBS"
 					}
 				]
 			},	
@@ -25,7 +27,8 @@
 				"endYear": "1999",
 				"links": [
 					{
-						"link": "http://tinyurl.com/azqom"
+						"link": "http://tinyurl.com/azqom",
+						"label": "CBS"
 					}
 				]
 			},
@@ -35,10 +38,8 @@
 				"endYear": "1996",
 				"links": [
 					{
-						"link": "http://tinyurl.com/dur6o"
-					},
-					{
-						"link": "http://tinyurl.com/ccp5e"
+						"link": "http://brock.dk",
+						"label": "Niels Brock"
 					}
 				]
 			}

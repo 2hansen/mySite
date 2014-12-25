@@ -1,0 +1,14 @@
+[
+	{	
+		"title": "Web Systems Developer at TDC Internet",
+		"startYear": "1999",
+		"endYear": "2002",
+		"description": "Developing customer specific web-solutions, primarily based on PHP and MySQL. Member of core-development team on web-portal \"Ask Alex\" (developed with Informix Web-blade technology).",
+		"links": [
+			{
+				"link": "http://tdc.com/",
+				"label": "TDC"
+			}
+		]
+	}
+]
