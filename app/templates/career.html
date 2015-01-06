@@ -1,45 +1,72 @@
 <div ng-controller="careerCtrl">
+
+    <h2>Employment</h2>
+    <table class="table table-hover"
+        <thead>
+            <tr>
+                <!-- <th>#</th> -->
+                <th>Start</th>
+                <th>End</th>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Links</th>
+            </tr>
+        </thead>
+        <tbody ng-repeat="emp in employment | orderBy:'startYear':'reverse'">
+            <tr>
+                <td>{{emp.startYear}}</td>
+                <td>{{emp.endYear}}</td>
+                <td style="text-align: left">{{emp.title}}</td>
+                <td style="text-align: left">{{emp.description}}</td>
+                <td style="text-align: left"><p ng-repeat="link in emp.links"><a href="{{link.link}}">{{link.label}}</a></p></td>
+            </tr>
+        </tbody>'
+    </table>
+
     <h2>Education</h2>
-	<table class="table table-hover"
-            <thead>
-    		<tr>
-    			<!-- <th>#</th> -->
-    			<th>Start</th>
-    			<th>End</th>
-    			<th>Name</th>
-    			<th>Link</th>
-    		</tr>
-    	</thead>
-    	<tbody ng-repeat="edu in education | orderBy: 'edu.startYear' : reverse">
-    		<tr>
+    <table class="table table-hover"
+        <thead>
+            <tr>
+                <!-- <th>#</th> -->
+                <th>Start</th>
+                <th>End</th>
+                <th>Name</th>
+                <th>Links</th>
+            </tr>
+        </thead>
+        <tbody ng-repeat="edu in education | orderBy:'startYear':'reverse'">
+            <tr>
                 <!-- <td>{{$index + 1}}</td> -->
                 <td>{{edu.startYear}}</td>
                 <td>{{edu.endYear}}</td>
                 <td style="text-align: left">{{edu.label}}</td>
                 <td style="text-align: left"><p ng-repeat="link in edu.links"><a href="{{link.link}}">{{link.label}}</a></p></td>
-    		</tr>
-    	</tbody>
+            </tr>
+        </tbody>
     </table>
-    <h2>Employment</h2>
+
+    <h2>Publications</h2>
     <table class="table table-hover"
         <thead>
-        <tr>
-            <!-- <th>#</th> -->
-            <th>Start</th>
-            <th>End</th>
-            <th>Title</th>
-            <th>Description</th>
-            <th>Links</th>
-        </tr>
-    </thead>
-    <tbody ng-repeat="emp in employment | orderBy: 'edu.startYear' : reverse">
-        <tr>
-            <td>{{emp.startYear}}</td>
-            <td>{{emp.endYear}}</td>
-            <td style="text-align: left">{{emp.title}}</td>
-            <td style="text-align: left">{{emp.description}}</td>
-            <td style="text-align: left"><p ng-repeat="link in emp.links"><a href="{{link.link}}">{{link.label}}</a></p></td>
-        </tr>
-    </tbody>
-</table>
+            <tr>
+                <th>Year</th>
+                <th>Title</th>
+                <th>Author(s)</th>
+                <th>Summary</th>
+                <th>Links</th>
+            </tr>
+        </thead>
+        <tbody ng-repeat="pub in publication | orderBy:'year':'reverse'">
+            <tr>
+                <td>{{pub.year}}</td>
+                <td style="text-align: left">{{pub.title}}</td>
+                <td style="text-align: left"><p ng-repeat="author in pub.authors">{{author}}</p></td>
+                <td style="text-align: left">{{pub.summary}}</td>
+                <td style="text-align: left"><p ng-repeat="link in pub.links"><a href="{{link.link}}">{{link.label}}</a></p></td>
+            </tr>
+        </tbody>
+    </table>
+
+
+
 </div>

@@ -1,0 +1,23 @@
+[
+	{
+		"title": "Analyzing Knowledge Flows as a Prerequisite to Improve Systems Development Practice",
+		"authors": [
+				"Bo Hansen Hansen",
+				"Karlheinz Kautz"
+		],
+		"year": "2005",
+		"journal": "In Proceedings of the 13th European Conference on Information Systems, Regensburg, Germany, 26-28 May, 2005",
+		"summary": "Knowledge is a key parameter for a modern company’s survival. The ability to continuously become better at producing services relies on the organisation’s abilities to develop and utilise the intellectual competences of its employees. Systems and software development organisations are no exception here. In this paper we present the concept of knowledge flow and an accompanying mapping technique to analyze knowledge management related issues as a prerequisite to improving systems development practice. Developed in an action research project, we demonstrate the benefits of the concept and the technique in a concrete case and point to further research and application challenges.",
+		"links": [
+			{
+				"link": "http://ecisnet.org/",
+				"label": "ECIS"
+			},
+			{
+				"link": "http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1013&context=ecis2005",
+				"label": "full text"
+			}
+		]
+
+	}
+]

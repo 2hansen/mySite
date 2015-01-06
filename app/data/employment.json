@@ -10,5 +10,97 @@
 				"label": "TDC"
 			}
 		]
+	},
+	{
+		"title": "Assistant Portfolio Manager (Systems Developer) at Unibank (now Nordea)",
+		"startYear": "1998",
+		"endYear": "1999",
+		"description": "Developing in-house support applications based on Microsoft Visual Basic.",
+		"links": [
+			{
+				"link": "http://www.nordea.dk/",
+				"label": "Nordea"
+			}
+		]
+	},
+	{
+		"title": "IT supporter at Copenhagen Business School",
+		"startYear": "1997",
+		"endYear": "1998",
+		"description": "Supporting students with educational systems and general PC support.",
+		"links": [
+			{
+				"label": "Copenhagen Business School",
+				"link": "http://cbs.dk"
+			}
+		]
+	},
+		{
+		"title": "Teaching Assistant",
+		"startYear": "1997",
+		"endYear": "1998",
+		"description": "Teaching assistant in bachelor course (Ha.dat.) \"Business Economics\"",
+		"links": [
+			{
+				"label": "Copenhagen Business School",
+				"link": "http://cbs.dk"
+			}
+		]
+	},
+		{
+		"title": "Nordic Systems Director",
+		"startYear": "2007",
+		"endYear": "2011",
+		"description": "Designing and implementing Media Plan Reporting tools - JBOSS, J2EE application with API to Maratahon",
+		"links": [
+			{
+				"label": "IUM",
+				"link": "http://ium.dk"
+			},
+			{
+				"label": "Marathon",
+				"link": "http://kase.se"
+			}
+		]
+	},
+		{
+		"title": "Nordic CIO",
+		"startYear": "2011",
+		"endYear": "2013",
+		"description": "Consolidating local IT departments into one united Nordic IT-support and development unit shared between all Interpublic's Nordic offices across four countries (Denmark, Finland, Sweden and Norway) and two major networks (McCann and IUM). Etablishing off shore developing unit in Malaysia.",
+		"links": [
+			{
+				"label": "IUM",
+				"link": "http://ium.dk"
+			},
+			{
+				"label": "Interpublic",
+				"link": "http://interpublic.com"
+			},
+			{
+				"label": "McCann",
+				"link": "http://mccann.com"
+			},
+			{
+				"label": "MediaBrands",
+				"link": "http://mediabrands.com"
+			}			
+		]
+	},
+	{
+		"title": "PhD Student",
+		"startYear": "2003",
+		"endYear": "2007",
+		"description": "PhD stipend with Copenhagen Business School, Dept. of Informaticts. Thesis about Software Process Improvement (SPI) and Knowledge Management (KM)",
+		"links": [
+			{
+				"label": "Copenhagen Business School",
+				"link": "http://cbs.dk"
+			},
+			{
+				"label": "Enriching software process improvement with knowledge management (Thesis)",
+				"link": "http://openarchive.cbs.dk/handle/10398/7902"
+			}
+		]
 	}
 ]

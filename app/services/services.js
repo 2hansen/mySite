@@ -11,3 +11,9 @@ myServices.factory('Employment', ['$resource', function($resource){
       query: {method:'GET', /*params:{phoneId:'phones'},*/ isArray:true}
     });
 }]);
+
+myServices.factory('Publications', ['$resource', function($resource){
+    return $resource('/data/publications.json', {}, {
+      query: {method:'GET', /*params:{phoneId:'phones'},*/ isArray:true}
+    });
+}]);

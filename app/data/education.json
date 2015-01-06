@@ -1,46 +1,46 @@
-		[
+[
+	{
+		"label": "Student at PhD School of Informatics",
+		"startYear": "2003",
+		"endYear": "2009",
+		"links": [
 			{
-				"label": "Student at PhD School of Informatics",
-				"startYear": "2003",
-				"endYear": "2009",
-				"links": [
-					{
-						"link": "http://goo.gl/YlNDBq",
-						"label": "CBS"
-					}
-				]
-			},
-			{	
-				"label": "Cand.merc.(dat.), MSc in Business Administration and Computer Science",
-				"startYear": "1999",
-				"endYear": "2002",
-				"links": [
-					{
-						"link": "http://tinyurl.com/9eeyu",
-						"label": "CBS"
-					}
-				]
-			},	
-			{	
-				"label": "Ha.(dat.), BSc in Business Administration and Computer Science",
-				"startYear": "1996",
-				"endYear": "1999",
-				"links": [
-					{
-						"link": "http://tinyurl.com/azqom",
-						"label": "CBS"
-					}
-				]
-			},
-			{	
-				"label": "Courses from \"Diploma in specialized Business Studies\", Business Economics and Business Organisation",
-				"startYear": "1994",
-				"endYear": "1996",
-				"links": [
-					{
-						"link": "http://brock.dk",
-						"label": "Niels Brock"
-					}
-				]
+				"link": "http://goo.gl/YlNDBq",
+				"label": "Copenhagen Business School"
 			}
 		]
+	},
+		{	
+		"label": "Courses from \"Diploma in specialized Business Studies\", Business Economics and Business Organisation",
+		"startYear": "1994",
+		"endYear": "1996",
+		"links": [
+			{
+				"link": "http://brock.dk",
+				"label": "Niels Brock"
+			}
+		]
+	},
+	{	
+		"label": "Cand.merc.(dat.), MSc in Business Administration and Computer Science",
+		"startYear": "1999",
+		"endYear": "2002",
+		"links": [
+			{
+				"link": "http://cbs.dk",
+				"label": "Copenhagen Business School"
+			}
+		]
+	},	
+	{	
+		"label": "Ha.(dat.), BSc in Business Administration and Computer Science",
+		"startYear": "1996",
+		"endYear": "1999",
+		"links": [
+			{
+				"link": "http://cbs.dk",
+				"label": "Copenhagen Business School"
+			}
+		]
+	}
+]
