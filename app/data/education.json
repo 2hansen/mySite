@@ -1,12 +1,16 @@
 [
 	{
-		"label": "Student at PhD School of Informatics",
+		"label": "PhD in Software Process Improvement and Knowledge Management from Copenhagen Business School's Dept. of Informatics",
 		"startYear": "2003",
 		"endYear": "2009",
 		"links": [
 			{
 				"link": "http://goo.gl/YlNDBq",
 				"label": "Copenhagen Business School"
+			},
+			{
+				"link": "http://openarchive.cbs.dk/bitstream/handle/10398/7902/Bo_Hansen_Hansen_1.pdf?sequence=4",
+				"label": "Thesis (pdf)"
 			}
 		]
 	},
@@ -29,6 +33,10 @@
 			{
 				"link": "http://cbs.dk",
 				"label": "Copenhagen Business School"
+			},
+						{
+				"label": "Thesis (pdf)",
+				"link": "assets/docs/HansenAndJacobsen2002.pdf"
 			}
 		]
 	},	
@@ -40,6 +48,17 @@
 			{
 				"link": "http://cbs.dk",
 				"label": "Copenhagen Business School"
+			}
+		]
+	},
+	{
+		"label": "Diploma in Specialised Business Studies, (Single Course), Applied Management",
+		"startYear": "2009",
+		"endYear": "2009",
+		"links": [
+			{
+				"link": "http://markmanntraining.dk/",
+				"label": "Markmann Training"	
 			}
 		]
 	}

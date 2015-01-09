@@ -91,7 +91,7 @@
 		"title": "PhD Student",
 		"startYear": "2003",
 		"endYear": "2007",
-		"description": "PhD stipend with Copenhagen Business School, Dept. of Informaticts. Thesis about Software Process Improvement (SPI) and Knowledge Management (KM)",
+		"description": "PhD stipend with Copenhagen Business School, Dept. of Informatics. Thesis about Software Process Improvement (SPI) and Knowledge Management (KM)",
 		"links": [
 			{
 				"label": "Copenhagen Business School",
@@ -102,5 +102,22 @@
 				"link": "http://openarchive.cbs.dk/handle/10398/7902"
 			}
 		]
+	},
+	{
+		"title": "CTO and co-founder",
+		"startYear": "2013",
+		"endYear": "2014",
+		"description": "Co-founded Blackwood Seven - a technology platform which will change the way advertisers control they media spending and allocation. I organised the technology setup and lead the development team from 1 to 10 employees. Worked a lot with the development process and implemented a lean and democratic process to conduct continous integration and testing in a highly agile environmet. Particpated a lot in the product management as well.",
+		"links": [
+			{
+				"link": "http://blackwoodseven.com",
+				"label": "Blackwood Seven"
+			}
+		] 
+	},
+	{
+		"title": "Partner & co-Founder",
+		"startYear": "2014",
+		"description": "Blackwood Seven"
 	}
 ]

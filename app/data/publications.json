@@ -7,7 +7,7 @@
 		],
 		"year": "2005",
 		"journal": "In Proceedings of the 13th European Conference on Information Systems, Regensburg, Germany, 26-28 May, 2005",
-		"summary": "Knowledge is a key parameter for a modern company’s survival. The ability to continuously become better at producing services relies on the organisation’s abilities to develop and utilise the intellectual competences of its employees. Systems and software development organisations are no exception here. In this paper we present the concept of knowledge flow and an accompanying mapping technique to analyze knowledge management related issues as a prerequisite to improving systems development practice. Developed in an action research project, we demonstrate the benefits of the concept and the technique in a concrete case and point to further research and application challenges.",
+		"abstract": "Knowledge is a key parameter for a modern company’s survival. The ability to continuously become better at producing services relies on the organisation’s abilities to develop and utilise the intellectual competences of its employees. Systems and software development organisations are no exception here. In this paper we present the concept of knowledge flow and an accompanying mapping technique to analyze knowledge management related issues as a prerequisite to improving systems development practice. Developed in an action research project, we demonstrate the benefits of the concept and the technique in a concrete case and point to further research and application challenges.",
 		"links": [
 			{
 				"link": "http://ecisnet.org/",
@@ -19,5 +19,233 @@
 			}
 		]
 
+	},
+	{
+		"title": "Grounded Theory Applied - Studying Information Systems Development Methodologies in Practice",
+		"authors": [
+			"Bo Hansen Hansen",
+			"Karlheinz Kautz"
+		],
+		"year": "2005",
+		"journal": "Proceedings of the 38th Hawaii International Conference on System Sciences (HICSS) 2005, Big Island, Hawaii, January 03-06, 2005",
+		"abstract": "This article reports how we used grounded theory to study whether and how system developers use Information Systems Development methodologies in practice. The work is founded on a case study carried out in a large software company. The data collection was based on semi-structured qualitative interviews with staff and it was supplemented by literature and documents studies. As our intention was to study how practice behaves instead of investigating if practice behaves in a specific way we had to use an open research method. With the collected data we therefore performed an analysis based on the grounded theory methodology. Grounded theory describes a general way to search relevant topics and relations through three sequential steps, but gives little concrete advice of how to actually perform a grounded theory analysis. We here provide such a detailed description of our approach, and discuss its advantages as well as its potential problems. Nominated as \"Best Paper\"",
+		"links": [
+			{
+				"link": "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=1385783&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D1385783",
+				"label": "Article"
+			},
+			{
+				"link": "http://www.hicss.hawaii.edu/",
+				"label": "HICSS"
+			}
+		]
+	},
+	{
+		"title": "Knowledge Mapping: A technique for identifying knowledge flows in software organisations",
+		"authors": [
+			"Bo Hansen Hansen",
+			"Karlheinz Kautz"
+		],
+		"year": "2005",
+		"journal": "European Software Process Improvement (EuroSPI) Conference 2004, Trondheim, Norway, November 10-12, 2004 - Proceedings in: Lecture Notes in Computer Science, Volume 3281, pp. 126 - 137, January 2005",
+		"abstract": "Knowledge is a key parameter for software companies’ survival, as the ability to continuously become better at producing services relies on the organisation’s abilities to develop and utilise the intellectual competencies, which its employees possess. These abilities depend highly on the organisation’s capability to share knowledge and thus on the way knowledge flows in the organisation. In this paper we present a knowledge management perspective on software process improvement, and describe a technique for mapping the organisational knowledge flows in a software company. The results show that the technique successfully helps the organisation to select relevant focus areas for planning future improvement initiatives. The study further explains four distinct critical situations, which can be identified in a knowledge map; Hubs, Black Holes, Springs, and Missing Links. Each covers potential problems in the organisational flows and therefore can provide guidance for organisational process improvements.",
+		"links": [
+			{
+				"link": "http://2004.eurospi.net/",
+				"label": "EuroSPI 2004"
+			},
+			{
+				"label": "Springer",
+				"link": "http://link.springer.com/chapter/10.1007/978-3-540-30181-3_12"
+			}
+		]
+	},
+	{
+		"title": "Prescription, Description, Reflection: The Shape of the Software Process Improvement Field",
+		"authors": [
+			"Bo Hansen Hansen",
+			"Jeremy Rose",
+			"Gitte Tjørnehøj"
+		],
+		"year": "2004",
+		"journal": "International Journal of Information Management, Vol. 24, No. 6, pp. 457-472, 2004",
+		"abstract": "This article reviews 322 representative contributions to the software process improvement (SPI) literature. The contributions are categorised according to a simple framework: whether their primary goal is prescriptive (to tell SPI professionals what to do), descriptive (to report actual instances of SPI programs in software organisations), or reflective (theoretically analytical). The field is found to be rather dominated by one approach (the capability maturity model (CMM)) and heavily biased towards prescriptive contributions. Neither of these trends is necessarily beneficial, and it is argued that more theoretically reflective contributions could encourage a diversity of approaches which might also benefit practitioners.",
+		"links": [
+			{
+				"label": "Article, ScienceDirect ",
+				"link": "http://www.sciencedirect.com/science/article/pii/S0268401204000945"
+			}
+		]
+	},
+	{
+		"title": "Knowledge Mapping - a technique for identifying knowledge flows in organisations",
+		"authors": [
+			"Bo Hansen Hansen",
+			"Karlheinz Kautz"
+		],
+		"year": "2004",
+		"journal": "Proceedings of Information Systems Research in Scandinavia (IRIS) 27 Conference, Falkenberg, Sweden, August 14-17, 2004",
+		"abstract": "For modern organisations – including software developing companies - knowledge is a key parameter for surviving, because the ability to continuously become better at producing services relies on the abilities to incorporate the earlier experiences into the planning of future practice. These abilities depends highly on the organisation’s ability to share knowledge and thus on the way knowledge flows in the organisation. In this paper we present a knowledge management perspective on the software process improvement (SPI) field, and describe how we use rich pictures as a technique for mapping the organisational knowledge flows in a Danish software company. The results show that the technique successfully helps the organisation select relevant focus areas for planning future improvement initiatives. The study further uses the map to explain four distinct critical situations, which can be identified in a knowledge map; Hubs, Black Holes, Springs, and Missing Links. Each of these situations covers potential problems in the organisational flows – and therefore can provide guidance towards organisational improvements.",
+		"links": [
+			{
+				"label": "IRIS",
+				"link": "http://iris.cs.aau.dk/index.php/welcome.48.html"
+			},
+			{
+				"label": "Article (pdf)",
+				"link": "assets/docs/HansenAndKautz2004.pdf"
+			}
+		]
+	},
+	{
+		"title": "The Utilization of Information Systems Development Methodologies in Practice",
+		"authors": [
+			"Karlheinz Kautz",
+			"Bo Hansen Hansen",
+			"Dan Jacobsen"
+		],
+		"year": "2004",
+		"journal": "Journal of IT Cases and Applications (JITCA), Vol. 6, No. 4, 2004",
+		"abstract": "The objective of our research is to study people and their actions within an organizational context, namely whether and how system developers use Information Systems Development methodologies in practice. This article adds to the ongoing discussion about the practical use of ISD methodologies. Many prescriptive and normative textbooks as well as anecdotes exist, but there is little empirical documentation about the actual use of development methods. To contribute to the scientific documentation of methodology utilization, we provide here an empirically based study of the practical use of development methods in three projects within a large Danish software development company. Founded on a Grounded Theory analysis we identified five main categories of themes, which are related and have an effect on the use of ISD methodologies. These include 1) the extent to which a specific methodology is universally applicable, 2) the need for confidence of and between the parties involved, 3) the degree of the developer's experience, 4) the developer's wish for co-determination in the development process, and 5) the nature of the introduction process for a method. Our results confirm existing research in the field and offer new insights, especially with regard to the interplay and relationship of the different, identified themes.",
+		"links": [
+			{
+				"label": "Article",
+				"link": "http://www.sims.monash.edu/subjects/ims5024/lectures/The%20Ulilization%20of%20ISD%20Methodologies%20JITCA.pdf"
+			},
+			{
+				"label": "JITCA",
+				"link": "http://www.tandfonline.com/doi/abs/10.1080/15228053.2004.10856051#.VK5mzlXF90Y"
+			}
+		]
+	},
+	{
+		"title": "Prescription, description, reflection - the shape of the software process improvement field",
+		"author": [
+			"Bo Hansen Hansen",
+			"Jeremy Rose",
+			"Gitte Tjørnehøj"
+		],
+		"year": "2004",
+		"journal": "Proceedings of the UK Academy for Information Systems (UKAIS) 2004 Conference, Glasgow, Scotland, UK, May 5-7, 2004",
+		"abstract": "This article reviews 322 representative contributions to the the Software Process Improvement (SPI) literature. The contributions are categorised according to a simple framework: whether their primary goal is prescriptive (to tell SPI professionals what to do), descriptive (to report actual instances of SPI programs in software organisations), or reflective (theoretically analytical). The field is found to be rather dominated by one approach (the Capability Maturity Model (CMM)) and heavily biased towards prescriptive contributions. Neither of these trends is necessarily beneficial, and it is argued that more theoretically reflective contributions could encourage a diversity of approaches which might also benefit practitioners. This paper was awarded the \"Conference Best Paper Award\".",
+		"links": [
+			{
+				"link": "http://www.ukais.org.uk/",
+				"label": "UKAIS"
+			}
+		]
+	},
+	{
+		"title": "Information systems development methodologies in practice",
+		"authors": [
+			"Bo Hansen Hansen",
+			"Karlheinz Kautz",
+			"Dan Jacobsen"
+		],
+		"year": "2003",
+		"journal": "Proceedings of the Information Systems Development (ISD) Conference, Melbourne, Australia, August 25-27, 2003",
+		"abstract": "This paper presents a case study, which investigates the application of information system development methodologies. It examines which processes and factors have an effect on the choice and utilization of development methods and techniques. The study has been conducted on the basis of three development projects in a large Danish software company. The empirical data comprises twelve semi-structured interviews with representatives from the projects and the organizational unit responsible for ISD methodology introduction. Five main categories of themes, which are related and have an effect on the use of ISD methodologies, are identified. These include 1) the extent to which a specific methodology is universally applicable, 2) the need for security of and between the parties involved, 3) the degree of the developer's experience with development, 4) the developer's wish for co-determination with regard to the development process, and 5) the nature of the introduction process for a certain method. The results of our study confirm existing research in the field and offer new insights, especially with regard to the interplay and relationship of the different, identified themes. The study provides further evidence for the misconception of universally applicable methods and extends the understanding of the shift towards incremental methods and towards situated use of methods. We confirm that the development context's volatility and a project's apparent uniqueness are reasons for this shift. Best Paper award.",
+		"links": [
+			{
+				"label": "ISD",
+				"link": "http://isd2014.foi.hr/"
+			},
+			{
+				"link": "http://www.springer.com/computer/theoretical+computer+science/book/978-0-306-48554-1",
+				"label": "Proceedings"
+			}
+		]		
+	},
+	{
+		"title": "Information systems developement methodologies in practice",
+		"authors": [
+			"Bo Hansen Hansen",
+			"Karlheinz Kautz",
+			"Dan Jacobsen"
+		],
+		"year": "2003",
+		"journal": "Proceedings of the Proceedings of Information Systems Research in Scandinavia (IRIS) 26 Conference, Helsinki, Finland, August 9-12, 2003",
+		"abstract": "This paper presents a case study, which investigates the application of information system de­velopment methods. It examines which processes and factors have an effect on the choice and utilization of development methods and techniques. The study has been conducted on the basis of three development projects in a large Danish software company. The empirical data comprises twelve semi-structured interviews with developers, project managers and representatives of the organizational unit responsible for ISD methodology introduction. Five main categories of themes, which have an effect on the use of ISD methodologies, are identified. These include 1) the extent to which a specific methodology is universally applicable, 2) the nature of the introduction process for a certain method, 3) the degree of the developer's experience with development, 4) the need for security of and between the parties involved, and 5) the developer's wish for co-determination with regard to the development process. The results of our study confirm existing research in the field and offer – based on a deeper understanding of the mechanisms which influence method utilization provided by the empir­ical data thoroughly analysed with the help of our Grounded theory approach - some new in­sights, especially with regard to the interplay and relationship of the different, identified themes. The study provides further evidence for the misconception of universally applicable methods and extends the understanding of the systems development shift towards incremental methods and towards situated use of methods. We confirm that the development context’s volatility and a project’s apparent uniqueness are reasons for this shift.",
+		"links": [
+			{
+				"Label": "IRIS",
+				"link": "http://iris.cs.aau.dk/index.php/welcome.48.html"
+			},
+			{
+				"link": "assets/docs/HansenEtAl2003.pdf",
+				"label": "article (pdf)"
+			}
+		]
+	},
+	{
+		"title": "Systemudviklingsmetoders anvendelse i praksis - et casestudie",
+		"authors": [
+			"Bo Hansen Hansen",
+			"Dan Jacobsen"
+		],
+		"year": "2003",
+		"journal": "Master Thesis",
+		"abstract": "This thesis presents a case study, which investigates the application of information system development methods. It examines which processes and factors have an effect on the choice and utilization of development methods and techniques, and it takes a closer look at “official” and prescribed methods as defined in organizations’ method documentation and their application, adaptation and adjustment with regard to actual development projects and development activities. The study has been conducted on the basis of three development projects in a large Danish software company. The empirical data, which forms the basis for this thesis comprises twelve semi-structured interviews with developers, project managers and representatives of the organizational unit responsible for ISD method introduction as well company documents describing the methods and methodical process applied. The transcripts of the interviews have been analyzed through the application of a Grounded Theory inspired approach. Five main categories of themes, which have an effect on the use of ISD methods, are identified. These include 1) the extent to which a specific method is universally applicable, 2) the nature of the introduction process for a certain method, 3) the degree of the developers’ experience with systems development, 4) the longing and need for security of and between the parties involved concerning the course of a development project, and 5) the developers’ involvement and their wish and need for co-determination with regard to the development and selection of methods and method components. The results of our study confirm existing research in the field and offer - based on a deeper understanding of the mechanisms which influence method utilization provided by the empirical data thoroughly analyzed with the help of our Grounded theory approach - some new insights, especially with regard to the interplay and relationship of the different, identified themes. The study provides further evidence for the misconception of universally applicable methods and extends the understanding of the systems development shift towards incremental methods and towards situated use of methods. We confirm that the development context’s volatility and a project’s apparent uniqueness are reasons for this shift. We also show that a system’s size and complexity can be in conflict with cognitive limitations with regard to the use of comprehensive methods. Furthermore, the shift is related to the perceived need for the creation of security of and between the parties involved concerning the course of a development project. Finally, formation and maintenance of developers’ motivation is associated with this shift. We identify the necessity of developers’ access to a selection of methods, which confirms the methods’ flawing universality. We provide an explanation and a deeper understanding for the need for various methods and differing method components in a development organization and relate this to the developers’ wish and need for involvement in the method selection and development as well as to the close relationship between the technical platform, development tools and methods. We confirm the relationship between system developers’ experience in systems development and the pragmatic utilization of methods and add that experienced developers value their experience as more significant than the possible adoption of new methods, which also explains the lack of method adoption. In addition, we substantiate the importance which strong management support has for the adoption of methods. We also show that a close cooperation between method developers and method users as well as experienced developers’ influence on their less experienced colleagues have an impact on method adoption. Our study confirms the symbolic function a method may have and relates this to the perceived need of the management for security with regard to the development processes, which is satisfied by the development of a documented method. Thus, our work provides an empirical study, which confirms and extends existing knowledge in the field and offers an empirical documentation, which can be exploited for further research on the subject. The thesis was nominated \"Best IT-thesis in 2003\" by Dansk Selskab for Datalogi.",
+		"links": [
+			{
+				"label": "Download (pdf)",
+				"link": "assets/docs/HansenAndJacobsen2002.pdf"
+			}
+		]
+	},
+	{
+		"title": "Codification or Personalisation, a simple choice?",
+		"authors": [
+			"Bo Hansen Hansen",
+			"Jacob Nørbjerg"
+		],
+		"year": "2005",
+		"journal": "Proceedings, IRIS'28, Kristiansand, August 6-9, 2005",
+		"abstract": " Software development companies - like other knowledge intensive organisations - seek to utilise their intellectual competencies effectively in their pursuit of higher professionalism. In this paper we discuss some of the dilemmas facing software development organisations attempting to define and implement a knowledge management strategy as overall organisational strategies and priorities meet with the different knowledge creation and sharing needs within different organisational groups. Further we discuss how popular software process improvement models might have an impact on the organisation's abilities to transfer knowledge by forcing the organisation to rely on codification as the primary knowledge transfer method - even if the valuable knowledge is hard to codify and share this way.",
+		"links": [
+			{
+				"label": "IRIS",
+				"link": "http://iris.cs.aau.dk/index.php/welcome.48.html"
+			},
+			{
+				"link": "http://www.researchgate.net/publication/242287792_Codification_or_Personalisation_-_a_simple_choice",
+				"label": "Article"
+			}
+		]
+	},
+	{
+		"title": "Beyond the process; Enriching software process improvement with knowledge management",
+		"authors": [
+			"Bo Hansen Hansen"
+			],
+		"year": "2009",
+		"journal": "PHD Thesis",
+		"abstract": "Formålet med denne afhandling er at belyse, hvorledes softwarevirksomheder kan forbedre deres udviklingspraksis ved at udnytte deres vidensressourcer bedre. Afhandlingen belyser dette ved at besvare følgende forskningspørgsmål: • Hvorledes kan en softwarevirksomheds videnstyringsstatus bestemmes med henblik på at kunne identificere vidensrelaterede forbedringsområder? • Hvorledes kan forbedringer af sådanne områder planlægges via design og tilpasning af nye organisatoriske tiltag til styrkelse af organisationens læringsmuligheder? • Hvorledes kan sådanne forbedringsinitiativer faciliteres og implementeres for at sikre accept og fortsat udvikling? Afhandlingen er en del af det nationale forskningsprojekt Softwareprocesser og Viden og er udarbejdet som et aktionsforskningsprojekt hos softwarevirksomheden Systematic Software Engineering i Århus. Afhandlingen leverer, foruden forbedringer i den involverede organisation, teoretiske og metodiske bidrag til softwareprocesforbedringsfeltet ved at vise hvorledes teoretisk input fra vidensstyringsfeltet kan integreres i og styrke softwareprocesforbedringsfeltet, samt ved at vise hvorledes komplekse organisatoriske sammenhænge kan belyses ved at anvende en passende og fleksibel portefølje af analyse— og interventionsteknikker. Derudover bidrager afhandlingen med udviklingen af en balanceret teori om vidensstyring i softwareprocesforbedring. Til dette formål introduceres begreberne eksemplarisk og situeret videnstype og normativ og reflektiv processforbedring. Afhandlingen anskueliggør desuden, hvorledes et længerevarende samarbejdsbaseret studie har bidraget med resultater internt i case-organisationen ved at designe og tilpasse en ny projektevalueringsproces, der er baseret på et skifte mod en situeret vidensorganisation ved aktivt at involvere de eksisterende ekspertnetværk i organisationen. Gennem designet af denne ny proces belyses, hvorledes Softwareprocesforbedringsfeltet på et teoretisk niveau styrkes igennem integration af teorier fra beslægtede felter. Afhandlingen viser, hvorledes kulturanalyse og videnskort kan anvendes som softwareprocesforbedringsteknikker. Derudover antyder afhandlingen en balanceret teori om vidensstyring i softwareprocesforbedring, der beskriver betydningen af at søge en ligevægt imellem den herskende organisatoriske videnstype (eksemplarisk vs. situeret) og softwareprocesforbedringsmetode (normativ vs. reflektiv). Slutteligt viser denne afhandling, hvorledes et længerevarende forskningsprojekt, inspireret af aktionsforskning, kan styres og fokuseres igennem anvendelsen af Collaborative Practice Research ",
+		"links": [
+			{
+				"link": "http://openarchive.cbs.dk/bitstream/handle/10398/7902/Bo_Hansen_Hansen_1.pdf?sequence=4",
+				"label": "Download (pdf)"
+			}
+		]
+	},
+	{
+		"title": "Mapping Knowledge Flows",
+		"authors": [
+			"Karlheinz Kautz",
+			"Bo Hansen Hansen"
+		],
+		"year": "2008",
+		"journal": "Chapter 6 (pages 89-102) of Software Processes & Knowledge : Beyond Conventional Software Process Improvement, Nielsen, P. A., & Kautz, K. (eds), 2008, Software Innovation Publisher",
+		"abstract": "The theme of this book is the importance of knowledge for the improvement of software development. Software process improvement (SPI) is concerned with strengthening software development capabilities, which for us means that one primary task of SPI research is to strengthen the knowledge managing and sharing capabilities of software development companies (Hansen and Kautz 2004). With this background, this chapter presents a means for identifying and analyzing how knowledge flows through an organization. We have developed this technique for mapping knowledge flows between organizational actors and assessed its applicability in apilot experiment in Systematic Software Engineering (SSE), see also chapter 11. In the experiment we tested and evaluated one way in which the technique could be used to analyze an organization’s knowledge sharing capabilities; thus, it points to opportunities for improvement and provides recommendations for how it can support SPI based on knowledge management. The chapter is organized as follows. The next section presents the research background and approach. In section 3 the mapping techniques is introduced and section 4 includesthe description of the pilot application and experiment of the technique. The experiment is briefly discussed in section 5 after which conclusions are provided.",
+		"links": [
+			{
+				"link": "http://research.cbs.dk/portal/en/publications/mapping-knowledge-flows(2a408150-d5aa-11dd-8e8d-000ea68e967b).html",
+				"label": "Research @ CBS"
+			},
+			{
+				"link": "http://people.cs.aau.dk/~pan/ebook/SPK-Book.pdf",
+				"label": "Software Process & Knowledge (book)"
+			}
+		]
 	}
 ]

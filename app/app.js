@@ -4,8 +4,12 @@ var app = angular.module("2hansenApp", [
 	'nvd3', 
 	'ngRoute', 
 	'navControllers', 
-	'careerControllers',
-	'myServices'
+	'employmentControllers',
+	'educationControllers',
+	'publicationControllers',
+	'funFactsControllers',
+	'myServices',
+	'jokeService'
 ])
 
 nv.dev = false;

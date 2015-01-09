@@ -1,0 +1,27 @@
+<div ng-controller="employmentCtrl">
+
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <!-- <th>#</th> -->
+                <th>Start</th>
+                <th>End</th>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Links</th>
+            </tr>
+        </thead>
+        <tbody ng-repeat="emp in employment | orderBy:'startYear':'reverse'">
+            <tr>
+                <td>{{emp.startYear}}</td>
+                <td>{{emp.endYear}}</td>
+                <td style="text-align: left">{{emp.title}}</td>
+                <td style="text-align: left">{{emp.description}}</td>
+                <td style="text-align: left"><p ng-repeat="link in emp.links"><a href="{{link.link}}">{{link.label}}</a></p></td>
+            </tr>
+        </tbody>
+    </table>
+
+    Or look it up on <a href="http://dk.linkedin.com/in/2hansen">LinkedIn</a>
+
+</div>

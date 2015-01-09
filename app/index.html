@@ -2,9 +2,10 @@
 <html>
   <head>
     <title>2hansen.dk</title>
-     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
-     <link rel="stylesheet" href="bower_components/nvd3/nv.d3.min.css">
-     <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="bower_components/nvd3/nv.d3.min.css">
+    <link rel="stylesheet" href="css/app.css">
+    <link id="page_favicon" href="data:image/vnd.microsoft.icon;base64,R0lGODlhEAAQAPEAAAAAAJmZmf///wAAACH5BAkyAAMAIf8LTkVUU0NBUEUyLjADAQAAACwAAAAAEAAQAAAC5wQAAAAAAAAAAIQQQgghhBAEQQAAAQAAAAAAAAAAQAAAASAAAAAAAAAAAAIAQAAAEAAAAAAAAAAAAgBAAAAACAAAAAAAAAACAEAAABAAAAAAAAAAAAIAQAAgAAAAAAAAAAAAEAAAEAAAAAAAAAAAAAAAABAAABAAAAAAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAAAAEAAAEAAAAAAAAAAAAAAAABAAABAAAAAAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAAAAEAAAEBAQEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAKAAAh+QQJMgADACwAAAAAEAAQAAAC5wQAAAAAAAAAAIQQQgghhBAEQQAAAQAAAAAAAAAAQAAAASAAAAAAAAAAAAIAQAAAEAAAAAAAAAAAAgBAAAAACAAAAAAAAAACAEAAABAAAAAAAAAAAAIAQAAgAAAAAoEAAAAAEAAAEAAAAAAAAAAAAAAAABAAABAAAAAAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAAAAEAAAEAAAAAAAAAAAAAAAABAAABAAAAAAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAAAAEAAAEBAQEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAKAAA7" rel="icon" type="image/x-icon" />
   </head>
   <body ng-app="2hansenApp">
     <ng-view></ng-view>
@@ -23,8 +24,12 @@
     <script type='text/javascript' src='bower_components/nvd3/nv.d3.js'></script>
     <script type='text/javascript' src='bower_components/angular-nvd3/dist/angular-nvd3.js'></script>
     <script type='text/javascript' src="services/services.js"></script>
+    <script type='text/javascript' src="services/joke-services.js"></script>
     <script type='text/javascript' src="controllers/nav-controllers.js"></script>
-    <script type='text/javascript' src="controllers/career-controllers.js"></script>
+    <script type='text/javascript' src="controllers/employment-controllers.js"></script>
+    <script type='text/javascript' src="controllers/education-controllers.js"></script>
+    <script type='text/javascript' src="controllers/publication-controllers.js"></script>
+    <script type='text/javascript' src="controllers/funfacts-controllers.js"></script>
     <script type='text/javascript' src="app.js"></script>
   </body>
 </html>
