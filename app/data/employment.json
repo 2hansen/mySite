@@ -119,5 +119,16 @@
 		"title": "Partner & co-Founder",
 		"startYear": "2014",
 		"description": "Blackwood Seven"
+	},
+	{
+		"title": "Partner",
+		"startYear": "2015",
+		"description": "IT-Kartellet",
+		"links": [
+			{
+				"link": "http://it-kartellet.dk",
+				"label": "IT-Kartellet"
+			}
+		] 
 	}
 ]
